@@ -1,0 +1,6 @@
+# Папка с картинками
+.images/
+
+# Ignore dolphin
+.directory
+
